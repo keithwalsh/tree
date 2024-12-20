@@ -1,0 +1,15 @@
+build/
+dist/
+node_modules/
+test/
+storybook-static/
+*.md
+*.log*
+*.json
+.*ignore*
+*/stories/
+.*/
+.*rules*
+tree.py
+.versionrc
+NOTES.md

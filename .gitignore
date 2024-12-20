@@ -17,11 +17,8 @@ test/
 *.sln
 *.sw?
 *.log*
-.treeignore
 */stories/
 .*rules*
-*.py
 .versionrc
 .env
 .*rules
-.treeignore
